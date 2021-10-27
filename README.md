@@ -13,3 +13,6 @@ very low ram usage
 
 ## contribution
 me and my sister and her proffesor from first year
+
+## result
+nba api data
